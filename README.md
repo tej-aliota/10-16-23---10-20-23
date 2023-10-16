@@ -14,4 +14,7 @@ is instantiation.
 
 ## WORK
 
-- 
+- The second thing I did today was playing oregon trail game. It was fun and I got to get an idea on how those types of games work. Finally I ended up winning the game on my first try which was a really big bonus.
+
+- Game Ideas: My first game idea was to build a space game where you are lost in space and have to get yourself back to earth. I think another fun game idea could be travelling the world. It would be similar to oregoon trail but different because you would need different forms of transportation
+and different resources.
