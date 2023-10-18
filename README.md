@@ -10,10 +10,12 @@ and any other descriptors that you would want to put. The way you code these are
 - I also learned that different classes make up and object. For example when you have multiple classes like window, wall, door, roof, floor. They all come together to make the end object of a house. For this reason objects can also be called instance of a class, while the process to create this
 is instantiation.
 
-- 
+- <img width="1998" alt="Screen Shot 2023-10-18 at 2 09 48 PM" src="https://github.com/tej-aliota/10-16-23---10-20-23/assets/142935901/a7596fa7-a582-40b7-b13f-636118e7037a">
+- <img width="640" alt="Screen Shot 2023-10-18 at 2 10 19 PM" src="https://github.com/tej-aliota/10-16-23---10-20-23/assets/142935901/f0ef28c7-402f-43e1-9196-052b69d43912">
+
 
 ## WORK
-
+-
 - The second thing I did today was playing oregon trail game. It was fun and I got to get an idea on how those types of games work. Finally I ended up winning the game on my first try which was a really big bonus.
 
 - Game Ideas: My first game idea was to build a space game where you are lost in space and have to get yourself back to earth. I think another fun game idea could be travelling the world. It would be similar to oregoon trail but different because you would need different forms of transportation
